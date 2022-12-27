@@ -1,4 +1,4 @@
-package com.chu;
+package com.chu.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

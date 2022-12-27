@@ -1,4 +1,4 @@
-package com.chu;
+package com.chu.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
